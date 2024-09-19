@@ -14,4 +14,5 @@ Add CPU arch filter scheduler support
 
 In a mixed environment of…
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![A piece by Ramon Y Cajal](https://static01.nyt.com/images/2018/01/19/arts/19braindrawing1/19braindrawing1-superJumbo.jpg?quality=75&auto=webp)
